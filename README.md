@@ -48,4 +48,4 @@ This project is to illustrate certain computational results mentioned in Paper \
 | 22 | 1913   | 3   |
 | 23 | 4096   | 19   |
 | 24 | 3578   | 10   |
-| 25 | 8273   |    |
+| 25 | 8273   | 47   |
