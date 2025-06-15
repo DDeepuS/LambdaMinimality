@@ -1,5 +1,6 @@
 # LambdaMinimality
-This project is to illustrate certain computational results mentioned in Paper \cite
+This project is to illustrate certain computational results mentioned in Paper On the Smallest Partition Associated to a Numerical Semigroup.
+Authors: Nathan Kaplan, Kaylee Kim, Cole McGeorge, Fabian Ramirez, Deepesh Singhal.
 | Genus | Number of Numerical Semigroups | Number of non $\lambda$-minimal numerical semigroups|
 |-------|---------|----------|
 | 1 |  1  |  0  |
